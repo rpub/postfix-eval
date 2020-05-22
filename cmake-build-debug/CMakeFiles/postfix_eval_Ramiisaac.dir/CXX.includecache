@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/CSC2431/postfix-eval-Ramiisaac/evaluator.cpp
+evaluator.h
+/mnt/c/CSC2431/postfix-eval-Ramiisaac/evaluator.h
+math.h
+-
+iostream
+-
+sstream
+-
+string
+-
+stack
+-
+vector
+-
+
+/mnt/c/CSC2431/postfix-eval-Ramiisaac/evaluator.h
+string
+-
+

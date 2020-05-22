@@ -1,0 +1,3 @@
+/mnt/c/CSC2431/postfix-eval-Ramiisaac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/CSC2431/postfix-eval-Ramiisaac/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/CSC2431/postfix-eval-Ramiisaac/cmake-build-debug/CMakeFiles/postfix_eval_Ramiisaac.dir

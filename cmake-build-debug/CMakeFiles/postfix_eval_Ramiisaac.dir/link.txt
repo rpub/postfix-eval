@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/postfix_eval_Ramiisaac.dir/evaluator.cpp.o CMakeFiles/postfix_eval_Ramiisaac.dir/main.cpp.o  -o postfix_eval_Ramiisaac 

@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/CSC2431/postfix-eval-Ramiisaac
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/CSC2431/postfix-eval-Ramiisaac/cmake-build-debug
